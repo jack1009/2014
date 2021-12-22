@@ -1,3 +1,0 @@
-Administrator
-MYCHAT-DC5BA6B2 
-2014年8月30日  下午 11:01:42

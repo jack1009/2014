@@ -1,9 +1,0 @@
-pnp15-15-16保持夾具In_ClipOut_LSstatus
-pnps15-20.22刪除
-s13auto-24TIMER_10_FB_M_10與46TIMER_10_FB_M_10同名
-s12auto-30增加DownStatus和S12_MoveOut_LS兩個點位(下位到達與點膠定位馬達才轉動)
-s12auto增加MoveOut_LS保持moveStatus
-14-40320140830
-s13auto-49 增加MotorStopAndClipOFF
-s13manual 預鎖上下S13_UpDown2_SOL增加一組觸發接,點搬移出去(回HOME點時才不會有撞擊聲)
-人機程式須重灌(預鎖上下監視錯誤人機已修正)

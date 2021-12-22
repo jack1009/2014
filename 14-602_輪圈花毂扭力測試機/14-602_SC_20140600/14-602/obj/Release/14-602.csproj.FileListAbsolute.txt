@@ -1,5 +1,0 @@
-D:\14-602_SC\14-602\bin\Release\14-602.exe.config
-D:\14-602_SC\14-602\obj\Release\14-602.csprojResolveAssemblyReference.cache
-D:\14-602_SC\14-602\obj\Release\_14_602.Form1.resources
-D:\14-602_SC\14-602\obj\Release\_14_602.Properties.Resources.resources
-D:\14-602_SC\14-602\obj\Release\14-602.csproj.GenerateResource.Cache
