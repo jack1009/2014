@@ -1,0 +1,22 @@
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <DSPROJECT>
+    <D_Project diffgr:id="D_Project1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iID>1</iID>
+      <szName>14-701_20140930</szName>
+      <dtCreateDate>2014-09-30T15:40:31.3121594+08:00</dtCreateDate>
+      <iProjectAttributeID>1</iProjectAttributeID>
+      <bUserManage>false</bUserManage>
+    </D_Project>
+    <D_Project diffgr:id="D_Project2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+      <iID>2</iID>
+      <szName>14-701_20150407</szName>
+      <dtCreateDate>2015-04-07T18:40:46.0437828+08:00</dtCreateDate>
+      <iProjectAttributeID>1</iProjectAttributeID>
+      <bUserManage>false</bUserManage>
+    </D_Project>
+    <D_DBVersion diffgr:id="D_DBVersion2" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iSupportVersion>1</iSupportVersion>
+      <iCreateVersion>1</iCreateVersion>
+    </D_DBVersion>
+  </DSPROJECT>
+</diffgr:diffgram>

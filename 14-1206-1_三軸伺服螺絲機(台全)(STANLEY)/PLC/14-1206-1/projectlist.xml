@@ -1,0 +1,29 @@
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <DSPROJECT>
+    <D_Project diffgr:id="D_Project1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iID>1</iID>
+      <szName>14-1206-1_20150416</szName>
+      <dtCreateDate>2015-04-16T17:03:54.03125+08:00</dtCreateDate>
+      <iProjectAttributeID>1</iProjectAttributeID>
+      <bUserManage>false</bUserManage>
+    </D_Project>
+    <D_Project diffgr:id="D_Project2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+      <iID>2</iID>
+      <szName>14-1206-1_20151006</szName>
+      <dtCreateDate>2015-10-06T11:21:31.5763629+08:00</dtCreateDate>
+      <iProjectAttributeID>1</iProjectAttributeID>
+      <bUserManage>false</bUserManage>
+    </D_Project>
+    <D_Project diffgr:id="D_Project3" msdata:rowOrder="2" diffgr:hasChanges="inserted">
+      <iID>3</iID>
+      <szName>14-1206-1_20160119</szName>
+      <dtCreateDate>2016-01-19T09:52:53.777867+08:00</dtCreateDate>
+      <iProjectAttributeID>1</iProjectAttributeID>
+      <bUserManage>false</bUserManage>
+    </D_Project>
+    <D_DBVersion diffgr:id="D_DBVersion2" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iSupportVersion>1</iSupportVersion>
+      <iCreateVersion>1</iCreateVersion>
+    </D_DBVersion>
+  </DSPROJECT>
+</diffgr:diffgram>

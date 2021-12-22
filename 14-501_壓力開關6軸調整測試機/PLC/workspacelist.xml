@@ -1,0 +1,18 @@
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <DSWORKSPACE>
+    <D_Workspace diffgr:id="D_Workspace1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iID>1</iID>
+      <szName>11-201</szName>
+      <dtCreateDate>2011-04-14T09:24:20.171875+08:00</dtCreateDate>
+    </D_Workspace>
+    <D_Workspace diffgr:id="D_Workspace2" msdata:rowOrder="1" diffgr:hasChanges="inserted">
+      <iID>2</iID>
+      <szName>14-501</szName>
+      <dtCreateDate>2014-07-30T14:58:25.8316255+08:00</dtCreateDate>
+    </D_Workspace>
+    <D_DBVersion diffgr:id="D_DBVersion2" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iSupportVersion>1</iSupportVersion>
+      <iCreateVersion>1</iCreateVersion>
+    </D_DBVersion>
+  </DSWORKSPACE>
+</diffgr:diffgram>

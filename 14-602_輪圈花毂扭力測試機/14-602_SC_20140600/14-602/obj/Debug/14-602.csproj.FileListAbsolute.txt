@@ -1,0 +1,97 @@
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\bin\Debug\14-602.exe.config
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\bin\Debug\14-602.exe
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\bin\Debug\14-602.pdb
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\obj\Debug\_14_602.Form1.resources
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\obj\Debug\_14_602.Properties.Resources.resources
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\obj\Debug\14-602.csproj.GenerateResource.Cache
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\obj\Debug\14-602.exe
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\obj\Debug\14-602.pdb
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\bin\Debug\14-602.exe.manifest
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\bin\Debug\14-602.application
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\obj\Debug\14-602.exe.manifest
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\obj\Debug\14-602.application
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\bin\Debug\EPPlus.dll
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\bin\Debug\EPPlus.xml
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\bin\Debug\EntityFramework.dll
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\bin\Debug\EntityFramework.xml
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Google 雲端硬碟\進行中工作\14-602_輪圈花毂扭力測試機\PROG\14-602\14-602\obj\Debug\14-602.csprojResolveAssemblyReference.cache
+C:\Users\asus\Desktop\14-602\14-602\bin\Debug\14-602.exe.config
+C:\Users\asus\Desktop\14-602\14-602\obj\Debug\14-602.exe
+C:\Users\asus\Desktop\14-602\14-602\obj\Debug\14-602.pdb
+C:\Users\asus\Desktop\14-602\14-602\bin\Debug\14-602.exe.manifest
+C:\Users\asus\Desktop\14-602\14-602\bin\Debug\14-602.application
+C:\Users\asus\Desktop\14-602\14-602\bin\Debug\14-602.exe
+C:\Users\asus\Desktop\14-602\14-602\bin\Debug\14-602.pdb
+C:\Users\asus\Desktop\14-602\14-602\bin\Debug\EntityFramework.dll
+C:\Users\asus\Desktop\14-602\14-602\bin\Debug\EntityFramework.xml
+C:\Users\asus\Desktop\14-602\14-602\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\asus\Desktop\14-602\14-602\obj\Debug\_14_602.Form1.resources
+C:\Users\asus\Desktop\14-602\14-602\obj\Debug\_14_602.Properties.Resources.resources
+C:\Users\asus\Desktop\14-602\14-602\obj\Debug\14-602.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\14-602\14-602\obj\Debug\14-602.exe.manifest
+C:\Users\asus\Desktop\14-602\14-602\obj\Debug\14-602.application
+C:\Users\asus\Desktop\14-602\14-602\bin\Debug\Automation.BDaq.dll
+C:\Users\asus\Desktop\14-602\14-602\bin\Debug\EPPlus.xml
+C:\Users\asus\Desktop\14-602\14-602\bin\Debug\EPPlus.dll
+C:\Users\asus\Desktop\14-602\14-602\obj\Debug\14-602.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\bin\Debug\14-602.exe.config
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\obj\Debug\14-602.exe
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\obj\Debug\14-602.pdb
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\bin\Debug\14-602.exe.manifest
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\bin\Debug\14-602.application
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\bin\Debug\14-602.exe
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\bin\Debug\14-602.pdb
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\bin\Debug\EntityFramework.dll
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\bin\Debug\EPPlus.dll
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\bin\Debug\EntityFramework.xml
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\bin\Debug\EPPlus.xml
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\bin\Debug\zh-Hant\EntityFramework.resources.dll
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\obj\Debug\14-602.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\obj\Debug\_14_602.Form1.resources
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\obj\Debug\_14_602.Properties.Resources.resources
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\obj\Debug\14-602.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\obj\Debug\14-602.exe.manifest
+C:\Users\user\Desktop\進行中工作\14-602_輪圈花毂扭力測試機\14-602\14-602\obj\Debug\14-602.application
+D:\14-602_SC\14-602\bin\Debug\14-602.exe.config
+D:\14-602_SC\14-602\obj\Debug\14-602.exe
+D:\14-602_SC\14-602\obj\Debug\14-602.pdb
+D:\14-602_SC\14-602\bin\Debug\14-602.exe.manifest
+D:\14-602_SC\14-602\bin\Debug\14-602.application
+D:\14-602_SC\14-602\bin\Debug\14-602.exe
+D:\14-602_SC\14-602\bin\Debug\14-602.pdb
+D:\14-602_SC\14-602\bin\Debug\EntityFramework.dll
+D:\14-602_SC\14-602\bin\Debug\EPPlus.dll
+D:\14-602_SC\14-602\bin\Debug\EntityFramework.xml
+D:\14-602_SC\14-602\bin\Debug\EPPlus.xml
+D:\14-602_SC\14-602\bin\Debug\zh-Hant\EntityFramework.resources.dll
+D:\14-602_SC\14-602\obj\Debug\_14_602.Form1.resources
+D:\14-602_SC\14-602\obj\Debug\_14_602.Properties.Resources.resources
+D:\14-602_SC\14-602\obj\Debug\14-602.csproj.GenerateResource.Cache
+D:\14-602_SC\14-602\obj\Debug\14-602.exe.manifest
+D:\14-602_SC\14-602\obj\Debug\14-602.application
+G:\14-602_SC\14-602\bin\Debug\14-602.exe.config
+G:\14-602_SC\14-602\obj\Debug\14-602.exe
+G:\14-602_SC\14-602\obj\Debug\14-602.pdb
+G:\14-602_SC\14-602\obj\Debug\14-602.csprojResolveAssemblyReference.cache
+G:\14-602_SC\14-602\obj\Debug\_14_602.Form1.resources
+G:\14-602_SC\14-602\obj\Debug\_14_602.Properties.Resources.resources
+G:\14-602_SC\14-602\obj\Debug\14-602.csproj.GenerateResource.Cache
+G:\14-602_SC\14-602\bin\Debug\14-602.exe.manifest
+G:\14-602_SC\14-602\bin\Debug\14-602.application
+G:\14-602_SC\14-602\bin\Debug\14-602.exe
+G:\14-602_SC\14-602\bin\Debug\14-602.pdb
+G:\14-602_SC\14-602\bin\Debug\EntityFramework.dll
+G:\14-602_SC\14-602\bin\Debug\EPPlus.dll
+G:\14-602_SC\14-602\bin\Debug\EntityFramework.xml
+G:\14-602_SC\14-602\bin\Debug\EPPlus.xml
+G:\14-602_SC\14-602\bin\Debug\zh-Hant\EntityFramework.resources.dll
+G:\14-602_SC\14-602\obj\Debug\14-602.exe.manifest
+G:\14-602_SC\14-602\obj\Debug\14-602.application
+F:\14-602_SC\14-602\bin\Debug\14-602.exe.config
+F:\14-602_SC\14-602\obj\Debug\14-602.exe
+F:\14-602_SC\14-602\obj\Debug\14-602.pdb
+D:\14-602_SC\14-602\obj\Debug\14-602.csprojResolveAssemblyReference.cache
+C:\Users\user\Google 雲端硬碟\已完成工作\2014\14-602_輪圈花毂扭力測試機\14-602_SC\14-602\bin\Debug\14-602.exe.config
+C:\Users\user\Google 雲端硬碟\已完成工作\2014\14-602_輪圈花毂扭力測試機\14-602_SC\14-602\obj\Debug\14-602.exe
+C:\Users\user\Google 雲端硬碟\已完成工作\2014\14-602_輪圈花毂扭力測試機\14-602_SC\14-602\obj\Debug\14-602.pdb
