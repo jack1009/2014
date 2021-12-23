@@ -1,0 +1,18 @@
+<diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+  <DSHISTORY>
+    <D_History diffgr:id="D_History1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iID>1</iID>
+      <iProjectdataID>38</iProjectdataID>
+      <szComment>SetProjectStatus</szComment>
+      <iEditor>0</iEditor>
+      <dtFileTimeStamp>2011-04-14T09:07:56.203125+08:00</dtFileTimeStamp>
+      <iFileSize>13</iFileSize>
+      <szMD5val>C4Z+U8HSM86f5J1UVJojIw==</szMD5val>
+      <szProjectdataName>ProjectStatusFlag.dat</szProjectdataName>
+    </D_History>
+    <D_DBVersion diffgr:id="D_DBVersion2" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+      <iSupportVersion>1</iSupportVersion>
+      <iCreateVersion>1</iCreateVersion>
+    </D_DBVersion>
+  </DSHISTORY>
+</diffgr:diffgram>

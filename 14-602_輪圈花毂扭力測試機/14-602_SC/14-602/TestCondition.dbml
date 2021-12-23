@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="14-602" Class="TestConditionDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.\sqlexpress;Initial Catalog=14-602;Integrated Security=True" SettingsObjectName="_14_602.Properties.Settings" SettingsPropertyName="_14_602ConnectionString2" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.TestCondition" Member="TestCondition">
+    <Type Name="TestCondition">
+      <Column Name="id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="PreTurnEnable" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PreTurnSpeed" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="PreTurnTime" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="TestSpeed" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="TestTime" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="StandarValue" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="TorqueValue" Type="System.Double" DbType="Float NOT NULL" CanBeNull="false" />
+      <Column Name="[200gValue]" Member="_200gValue" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[400gValue]" Member="_400gValue" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="MaskValue" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[100gValue]" Member="_100gValue" Type="System.Double" DbType="Float" CanBeNull="true" />
+      <Column Name="[300gValue]" Member="_300gValue" Type="System.Double" DbType="Float" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>
